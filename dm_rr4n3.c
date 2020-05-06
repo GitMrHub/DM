@@ -79,5 +79,3 @@ int main(){
 	
 	return 0;
 }
-
-// Made by Oleksii Galganov, IASA KA-81, 8.02.2019
